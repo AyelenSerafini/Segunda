@@ -1,0 +1,87 @@
+
+header {
+    background-color: rgb(62, 92, 109);
+    padding: 100px;
+    color: aquamarine;
+    border: black;
+  }
+  h1 {
+    color: rgb(250, 243, 243);
+    text-align: center;
+  }
+  h3{
+    text-align: center;
+    margin-top: auto;
+    color: bisque;
+  }
+  header img {
+    width: 500px;
+    header img {
+        width: 100%;
+        display: block;
+        justify-content: center 50px;
+        border-color: aquamarine;
+      }
+      
+    }
+    header {
+        text-align: center;
+      }
+      
+      main {
+        margin: 10px 50px;
+      }
+      
+      main {
+        text-align: center;
+      }
+      
+      main {
+        text-decoration: none;
+      }
+      
+      main {
+        text-transform: uppercase;
+      }
+      
+      main {
+        margin-top: 20px;
+      }
+
+    
+    @media screen and (min-width:500px ) {
+     main{
+        background-color: rgb(63, 71, 77);
+        grid-template-columns: repeat(1, 1fr);
+        grid-row: repeat( 1, 50%) 
+            
+        }
+        
+    }
+    
+    @media screen and (min-width:1024px ){
+        body{
+            background-color: rgb(98, 107, 99);
+           
+        }
+    
+    }
+  
+  section {
+    align-content: center;
+    text-align: center;
+}
+  section .div {
+    width: 30%;
+    text-align: center;
+    justify-content: center;
+  }
+  
+    .footer-ejemplo {
+      margin: 10px 50px;
+      text-align: center;
+      
+  }
+  h5{
+    text-align: center;
+  }
